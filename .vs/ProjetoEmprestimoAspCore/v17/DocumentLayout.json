@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|c:\\users\\3mtec\\desktop\\projetoemprestimoaspcore\\projetoemprestimoaspcore\\gerenciararquivos\\gerenciadorarquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|solutionrelative:projetoemprestimoaspcore\\gerenciararquivos\\gerenciadorarquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|c:\\users\\3mtec\\desktop\\projetoemprestimoaspcore\\projetoemprestimoaspcore\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|solutionrelative:projetoemprestimoaspcore\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|c:\\users\\3mtec\\desktop\\projetoemprestimoaspcore\\projetoemprestimoaspcore\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|solutionrelative:projetoemprestimoaspcore\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|c:\\users\\3mtec\\desktop\\projetoemprestimoaspcore\\projetoemprestimoaspcore\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|solutionrelative:projetoemprestimoaspcore\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|c:\\users\\3mtec\\desktop\\projetoemprestimoaspcore\\projetoemprestimoaspcore\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|solutionrelative:projetoemprestimoaspcore\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|c:\\users\\3mtec\\desktop\\projetoemprestimoaspcore\\projetoemprestimoaspcore\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|solutionrelative:projetoemprestimoaspcore\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|c:\\users\\3mtec\\desktop\\projetoemprestimoaspcore\\projetoemprestimoaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{005E71FD-BCE8-4E91-898A-0FF059CB0D38}|ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore.csproj|solutionrelative:projetoemprestimoaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerenciadorArquivos.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\GerenciarArquivos\\GerenciadorArquivos.cs",
+              "RelativeDocumentMoniker": "ProjetoEmprestimoAspCore\\GerenciarArquivos\\GerenciadorArquivos.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\GerenciarArquivos\\GerenciadorArquivos.cs",
+              "RelativeToolTip": "ProjetoEmprestimoAspCore\\GerenciarArquivos\\GerenciadorArquivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:23:16.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Repository\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoEmprestimoAspCore\\Repository\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Repository\\LivroRepository.cs",
+              "RelativeToolTip": "ProjetoEmprestimoAspCore\\Repository\\LivroRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:32:10.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Repository\\Contract\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoEmprestimoAspCore\\Repository\\Contract\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Repository\\Contract\\ILivroRepository.cs",
+              "RelativeToolTip": "ProjetoEmprestimoAspCore\\Repository\\Contract\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:28:40.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Models\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "ProjetoEmprestimoAspCore\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Models\\Emprestimo.cs",
+              "RelativeToolTip": "ProjetoEmprestimoAspCore\\Models\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:22:06.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ProjetoEmprestimoAspCore\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Models\\Item.cs",
+              "RelativeToolTip": "ProjetoEmprestimoAspCore\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:18:53.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "ProjetoEmprestimoAspCore\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\Models\\Livro.cs",
+              "RelativeToolTip": "ProjetoEmprestimoAspCore\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:15:29.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoEmprestimoAspCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\ProjetoEmprestimoAspCore\\ProjetoEmprestimoAspCore\\appsettings.json",
+              "RelativeToolTip": "ProjetoEmprestimoAspCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T11:12:19.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
