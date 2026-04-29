@@ -13,7 +13,7 @@ namespace ProjetoEmprestimoAspCore.Repository
         }
         public void Atualizar(Emprestimo emprestimo)
         {
-            
+            throw new NotImplementedException();
         }
 
         public void BuscaIdEmp(Emprestimo emprestimo)
@@ -52,17 +52,17 @@ namespace ProjetoEmprestimoAspCore.Repository
 
         public void Excluir(int Id)
         {
-            
+            throw new NotImplementedException();
         }
 
         public Emprestimo ObterEmprestimos(int Id)
         {
-            
+            throw new NotImplementedException();
         }
 
         public IEnumerable<Emprestimo> ObterTodosEmprestimos()
         {
-           
+            throw new NotImplementedException();
         }
     }
 }

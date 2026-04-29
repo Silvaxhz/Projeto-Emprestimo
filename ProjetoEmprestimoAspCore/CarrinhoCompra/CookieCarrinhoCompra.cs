@@ -55,5 +55,42 @@ namespace ProjetoEmprestimoAspCore.CarrinhoCompra
             Salvar(Lista);
 
         }
+
+        public void Atualizar(Livro item)
+        {
+            var Lista = Consultar();
+            var ItemLocalizado = Lista.SingleOrDefault(a => a.CodLivro == item.CodLivro);
+
+            if (ItemLocalizado != null)
+            {
+                ItemLocalizado.Quantidade = item.Quantidade + 1;
+                Salvar(Lista);
+            }
+        }
+
+        public void Remover(Livro item)
+        {
+            var Lista = Consultar();
+            var ItemLocalizado = Lista.SingleOrDefault(a => a.CodLivro == item.CodLivro);
+
+            if (ItemLocalizado != null)
+            {
+                Lista.Remove(ItemLocalizado);
+                Salvar(Lista);
+            }
+        }
+        public bool Existe(string Key)
+        {
+            if (_cookie.Existe(Key))
+            {
+                return false;
+            }
+            return true;
+        }
+
+        public void RemoverTodos()
+        {
+            _cookie.Remover(Key);
+        }
     }
 }
