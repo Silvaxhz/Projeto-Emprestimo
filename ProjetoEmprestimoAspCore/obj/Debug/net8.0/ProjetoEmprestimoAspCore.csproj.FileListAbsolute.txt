@@ -245,3 +245,16 @@ C:\Users\PC\OneDrive\Área de Trabalho\Projeto-Emprestimo\ProjetoEmprestimoAspCo
 C:\Users\PC\OneDrive\Área de Trabalho\Projeto-Emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.pdb
 C:\Users\PC\OneDrive\Área de Trabalho\Projeto-Emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.genruntimeconfig.cache
 C:\Users\PC\OneDrive\Área de Trabalho\Projeto-Emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ref\ProjetoEmprestimoAspCore.dll
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.csproj.AssemblyReference.cache
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.AssemblyInfoInputs.cache
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.AssemblyInfo.cs
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.csproj.CoreCompileInputs.cache
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.RazorAssemblyInfo.cache
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.RazorAssemblyInfo.cs
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.sourcelink.json
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.dll
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\refint\ProjetoEmprestimoAspCore.dll
+C:\Users\3MTEC\Desktop\Projeto-emprestimo\ProjetoEmprestimoAspCore\obj\Debug\net8.0\ProjetoEmprestimoAspCore.pdb

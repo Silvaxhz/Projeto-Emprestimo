@@ -71,6 +71,7 @@ namespace ProjetoEmprestimoAspCore.Controllers
 
         public IActionResult RemoverItem(int id)
         {
+            _cookieCarrinhoCompra.Remover(new Livro() { CodLivro = id });
             return RedirectToAction(nameof(Carrinho));
         }
         
