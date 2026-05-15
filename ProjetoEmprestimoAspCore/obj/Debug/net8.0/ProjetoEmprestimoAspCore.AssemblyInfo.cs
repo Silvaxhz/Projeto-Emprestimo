@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoEmprestimoAspCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8699d6b8c6a93b862212e490ebc2fea3f779c5e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b79ad9c95892c0094063ee4dc6d6f14b8bea3c68")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoEmprestimoAspCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoEmprestimoAspCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
